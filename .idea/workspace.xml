@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1295e5ad-5174-4c9d-b034-4aa4ff3af303" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,7 @@
     "onboarding.tips.debug.path": "C:/Users/thais.breder/Desktop/Atividades/Aula09_EstruturaDeDecisao/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.E02">
     <configuration name="E01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E01" />
       <module name="Aula09_EstruturaDeDecisao" />
@@ -40,8 +43,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E02" />
+      <module name="Aula09_EstruturaDeDecisao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E02" />
         <item itemvalue="Application.E01" />
       </list>
     </recent_temporary>
