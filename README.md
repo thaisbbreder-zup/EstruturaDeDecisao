@@ -25,9 +25,8 @@ Faça um Programa que receba um número e exiba o dia correspondente da semana. 
 
 ## Conteúdo estudado
 <ul>
-  <li>If</li>
-   <li>If else</li>
-   <li>Switch case</li>
+  <li>For</li>
+   <li>While</li>
 </ul>
   
  ## Linguagem
