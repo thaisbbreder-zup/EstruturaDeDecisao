@@ -25,10 +25,11 @@ Faça um Programa que receba um número e exiba o dia correspondente da semana. 
 
 ## Conteúdo estudado
 <ul>
-  <li>For</li>
-   <li>While</li>
+  <li>If</li>
+   <li>If else</li>
+   <li>Switch case</li>
 </ul>
-  
+
  ## Linguagem
  <ul>
     <li>Java</li>
