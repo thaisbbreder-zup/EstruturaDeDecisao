@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1295e5ad-5174-4c9d-b034-4aa4ff3af303" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,7 @@
     "onboarding.tips.debug.path": "C:/Users/thais.breder/Desktop/Atividades/Aula09_EstruturaDeDecisao/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.E04">
+  <component name="RunManager" selected="Application.E05">
     <configuration name="E01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E01" />
       <module name="Aula09_EstruturaDeDecisao" />
@@ -65,8 +64,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E05" />
+      <module name="Aula09_EstruturaDeDecisao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E05" />
         <item itemvalue="Application.E04" />
         <item itemvalue="Application.E03" />
         <item itemvalue="Application.E02" />
